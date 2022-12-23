@@ -11,3 +11,5 @@ def decimalToBinary(n):
 
 result = decimalToBinary(10)
 print(result)
+
+0
